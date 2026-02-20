@@ -10,7 +10,7 @@
 ---
 
 ### 🏆 Mis Logros
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bayrooonnnva&theme=onedark&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bayrooonnnva&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -24,10 +24,10 @@
 
 ---
 
-### 📊 Estadísticas:
+### 📊 Estadísticas de Ingeniería:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayrooonnnva&show_icons=true&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayrooonnnva&theme=dark&hide_border=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bayrooonnnva&show_icons=true&theme=transparent&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayrooonnnva&theme=transparent&layout=compact" width="45%" />
 </p>
 
 ### ✍️ Random Dev Quote
