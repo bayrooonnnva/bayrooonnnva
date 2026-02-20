@@ -26,7 +26,6 @@
 ---
 
 ## 🌐 Conectemos:
-Aquí tienes mis redes para cualquier colaboración o duda técnica:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bayronviamontealmonte) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayronva20@gmail.com)
