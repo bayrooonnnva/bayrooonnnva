@@ -1,11 +1,16 @@
-# 💫 Sobre mí:
-
-> **¡Buenas! Soy Bayron** 👋  
-> Empecé en la **Ingeniería Informática** porque quería entender qué pasaba "bajo el capó" de la tecnología, y aquí sigo: rompiendo cosas para aprender a arreglarlas mejor 🛠️. Mi GitHub es mi laboratorio de pruebas donde mis ideas se convierten en código real 🚀.
-
-* 🧠 **Problem Solver:** Me divierto tanto optimizando SQL como peleándome con el CSS 🎨.
-* 🧪 **Curiosidad Pura:** Algoritmos de facultad y experimentos personales.
-* ✨ **Filosofía:** Si funciona, se puede mejorar. ¡Bichea lo que quieras!
+```
+html
+<section id="sobre-mi">
+  <h1>¡Hola! Soy Bayron 👋</h1>
+  
+  <p>
+    Estudiante de <strong>Ingeniería Informática</strong> con una gran curiosidad por entender 
+    cómo funciona la tecnología desde sus cimientos. Actualmente, mi GitHub es el reflejo de 
+    mi evolución académica: un espacio donde traduzco la teoría universitaria en código real, 
+    enfrentándome a retos de algoritmia, sistemas distribuidos y optimización. 🛠️🚀
+  </p>
+</section>
+```
 
 ---
 
