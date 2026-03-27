@@ -7,7 +7,7 @@ html
     Estudiante de <strong>Ingeniería Informática</strong> con una gran curiosidad por entender 
     cómo funciona la tecnología desde sus cimientos. Actualmente, mi GitHub es el reflejo de 
     mi evolución académica: un espacio donde traduzco la teoría universitaria en código real, 
-    enfrentándome a retos de algoritmia, sistemas distribuidos y optimización. 🛠️🚀
+    enfrentándome a diversos retos: algoritmia, sistemas distribuidos, optimización y mucho más! 🛠️🚀
   </p>
 </section>
 ```
